@@ -1,0 +1,4 @@
+
+Phishing attacks remain one of the most common and effective cyber threats because they exploit human trust rather than technical vulnerabilities. Attackers use various methods such as email phishing, spear phishing, smishing, and vishing to deceive victims into revealing sensitive information or performing harmful actions.
+Understanding common phishing techniques, recognizing suspicious messages, verifying URLs and senders, and enabling security measures such as Two-Factor Authentication (2FA) are essential steps in reducing the risk of compromise.
+As cyber threats continue to evolve, cybersecurity awareness and user education play a critical role in protecting individuals and organizations from phishing attacks. By staying vigilant and following security best practices, users can significantly reduce their exposure to phishing attempts and help create a safer digital environment.
